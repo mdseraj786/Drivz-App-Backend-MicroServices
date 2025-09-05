@@ -23,7 +23,7 @@ This repository acts as an index for all the microservices used in the Drivz app
 - REST APIs, Microservices
 - MySQL
 - SockJS (for async updates)
-- Docker *(optional if you use it)*
+  
 
 ---
 
