@@ -27,4 +27,4 @@ This repository acts as an index for all the microservices used in the Drivz app
 
 ---
 
-> 🧪 *Currently under development. Not yet deployed publicly.*
+
